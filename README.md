@@ -1,6 +1,6 @@
 # Amazon_Food_Reviews_Model_Deployment
 
-!{Food_Reviews](https://miro.medium.com/max/523/1*bXDiOoCFTSJJdTQ7JbuijQ.png)
+!(Food_Reviews](https://miro.medium.com/max/523/1*bXDiOoCFTSJJdTQ7JbuijQ.png)
 
 ##  Amazon_Food_Reviews_Featurization
 
@@ -96,7 +96,7 @@ I am deployed app in Heroku Platform to see visit [here](https://amazon-food-rev
 ### Contact
 
 [Email](ap7649649@gmail.com)
-[Linkedln](https://www.linkedin.com/in/Aashish Patil)
+[Linkedin](https://www.linkedin.com/in/Aashish Patil)
 [Github](https://github.com/mayush-ash/Food-review)
 [Twitter](https://twitter.com/ap7649649)
 
