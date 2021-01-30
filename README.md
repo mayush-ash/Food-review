@@ -1,6 +1,6 @@
 # Amazon_Food_Reviews_Model_Deployment
 
-!(Food_Reviews](https://miro.medium.com/max/523/1*bXDiOoCFTSJJdTQ7JbuijQ.png)
+![Food_Reviews](https://miro.medium.com/max/523/1*bXDiOoCFTSJJdTQ7JbuijQ.png)
 
 ##  Amazon_Food_Reviews_Featurization
 
